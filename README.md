@@ -1,3 +1,8 @@
+
+
+
+
+
 Check First : data_used (source : NASA )
 # I tried to make this data in usable form to analyze radiation energy...  Please note that this analysis process was practice. (In case  you use these files as a reference.)
  
